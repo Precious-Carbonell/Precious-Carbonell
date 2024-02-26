@@ -1,3 +1,6 @@
+<a href="https://komarev.com/ghpvc/?username=Precious-Carbonell">
+  <img align="left" src="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
+</a>
 <p align="center"> <img src="https://gifdb.com/images/high/squirtle-happily-smiling-b6lgza0k3xug03qj.gif" alt="preciousheader" /> </p>
 
 <h1 align="center">Hi 👋, I'm Precious Angeline Carbonell</h1>

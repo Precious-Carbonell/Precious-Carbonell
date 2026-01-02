@@ -35,6 +35,6 @@
 <h3 align="left">Precious' Statistics:</h3>
 
 ![Precious-Carbonell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precious-Carbonell&theme=graywhite&hide_border=true)
-![Precious-Carbonell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+![Precious-Carbonell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&theme=graywhite&showicons=true&hideborder=true&layout=compact)
 
 

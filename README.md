@@ -1,40 +1,92 @@
-<a href="https://komarev.com/ghpvc/?username=Precious-Carbonell">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
-</a>
-<p align="center"> <img src="https://gifdb.com/images/high/squirtle-happily-smiling-b6lgza0k3xug03qj.gif" alt="preciousheader" /> </p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Precious Angeline Carbonell</h1>
-<h3 align="center">A passionate Information Technology Student</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e812ae23-4542-4b4c-bba9-2c1832675803/dfaf87i-35558ca0-8455-494a-8976-8476a6db2fd4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4MTJhZTIzLTQ1NDItNGI0Yy1iYmE5LTJjMTgzMjY3NTgwM1wvZGZhZjg3aS0zNTU1OGNhMC04NDU1LTQ5NGEtODk3Ni04NDc2YTZkYjJmZDQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0eMwJQX-KhWNzFPdSi1lQJs24KeQNlUmIoFykZHSnIk">
+  <!-- Header GIF -->
+  <img src="https://gifdb.com/images/high/squirtle-happily-smiling-b6lgza0k3xug03qj.gif" alt="Squirtle Header" width="300" />
 
-<p align="left"> <a href="https://twitter.com/aenjils" target="blank"><img src="https://img.shields.io/twitter/follow/aenjils?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+  # Hi! I'm Precious Angeline Carbonell
+  ### 🎓 Information Technology Student & DA/ML Enthusiast
 
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" alt="Profile Views" />
+    </a>
+  </p>
 
+  <!-- Social Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/precious-carbonell" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/aenjils" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://instagram.com/aenjils" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:cpreciouscarbonell@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 👩‍💻 I'm currently working on **a GUI using Python**
+</div>
 
-- 🧠 I'm currently learning **Python, HTML, CSS, JS, and mySQL**
+---
 
-- 🤔 I'm looking for help with **developing a Visual Novel in Ren'Py**
+### 💻 Technical Skills
 
-- 📫 Reach me at **cpreciouscarbonell@gmail.com**
+#### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- 😄 Pronouns: She/her
+#### **Data Science & Analytics**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- ⚡️ Fun fact: **I have 7 cats 🐱**
+#### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aenjils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/aenjils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+### 📜 Certifications and Trainings
 
-<h3 align="left">Precious' Statistics:</h3>
+- IT Specialist - HTML and CSS | Pearson
+- IT Specialist - Python | Pearson
+- IT Specialist - Data Analytics | Pearson
+- PMI Project Management Ready | Project Management Institute
+- Data Analytics | DICT x Cisco Networking Academy
+- Introduction to Data Analytics | IBM
+- Introduction to Data Engineering | DataCamp
+- Intermediate SQL | DataCamp
 
-![Precious-Carbonell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precious-Carbonell&theme=graywhite&hideborder=true)
-![Precious-Carbonell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&theme=graywhite&showicons=true&hideborder=true&layout=compact)
+---
 
+### 📊 GitHub Stats
 
+<div align="center">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Precious-Carbonell&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Precious-Carbonell&theme=nord&hide_border=true" alt="GitHub Streak" />
+
+</div>

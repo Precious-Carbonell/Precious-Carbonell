@@ -1,29 +1,29 @@
 <div align="center">
 
-  # Hi! I'm Precious Angeline Carbonell
-  ### 🎓 Information Technology Student & DA/MLE Enthusiast
+# Hi! I'm Precious Angeline Carbonell
+### IT-BA Student & DA/MLE Enthusiast
 
-  <p align="center">
-    <a href="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=precious-carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=precious-carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
 
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://linkedin.com/in/precious-carbonell" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/aenjils" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/aenjils" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:cpreciouscarbonell@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/precious-carbonell" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/aenjils" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/aenjils" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:cpreciouscarbonell@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -31,87 +31,112 @@
 
 ### 💻 Technical Skills
 
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<details open>
+<summary><b>🛠️ Languages & Web Development</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+</p>
+</details>
 
-#### **Web Development & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+<details open>
+<summary><b>📊 Data Science, AI & Analytics</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
+</details>
 
-#### **Data Science, Analysis & Machine Learning**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
+</p>
+</details>
 
-#### **Data Visualization & Analytics**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Mermaid.js](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<details open>
+<summary><b>💻 IDEs & Notebook Environments</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Kiro-2C2C2C?style=for-the-badge&logo=codeforces&logoColor=white" alt="Kiro" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
+</p>
+</details>
 
-#### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<details open>
+<summary><b>🛡️ Security & Networking</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Security_Onion-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Security Onion" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Cisco_CyberOps-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CyberOps" />
+</p>
+</details>
 
-#### **IDEs & Notebook Environments**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-2C2C2C?style=for-the-badge&logo=codeforces&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+<details open>
+<summary><b>🎨 Design & Prototyping</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+</p>
+</details>
 
-#### **Networking & Security Tools**
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security_Onion-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+<details open>
+<summary><b>⚙️ Systems & Version Control</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+</details>
+---
 
-#### **Design, Systems & Version Control**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📜 Certifications & Credentials
+
+| Provider / Organization | Certificate Title | Badge |
+| :--- | :--- | :---: |
+| **Pearson VUE** | IT Specialist - HTML & CSS | ![](https://img.shields.io/badge/Pearson-HTML%20%26%20CSS-0072CE?style=flat-square&logo=pearson&logoColor=white) |
+| **Pearson VUE** | IT Specialist - Python | ![](https://img.shields.io/badge/Pearson-Python-0072CE?style=flat-square&logo=python&logoColor=white) |
+| **Pearson VUE** | IT Specialist - Data Analytics | ![](https://img.shields.io/badge/Pearson-Data%20Analytics-0072CE?style=flat-square&logo=pearson&logoColor=white) |
+| **Pearson VUE** | IT Specialist - Networking | ![](https://img.shields.io/badge/Pearson-Networking-0072CE?style=flat-square&logo=pearson&logoColor=white) |
+| **PMI** | PMI Project Management Ready | ![](https://img.shields.io/badge/PMI-Project%20Management-00539B?style=flat-square&logo=pmi&logoColor=white) |
+| **DICT x Cisco** | Data Analytics | ![](https://img.shields.io/badge/Cisco-Data%20Analytics-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+| **IBM** | Introduction to Data Analytics | ![](https://img.shields.io/badge/IBM-Data%20Analytics-054ADA?style=flat-square&logo=ibm&logoColor=white) |
+| **DataCamp** | Introduction to Data Engineering | ![](https://img.shields.io/badge/DataCamp-Data%20Engineering-05192D?style=flat-square&logo=datacamp&logoColor=03EF62) |
+| **DataCamp** | Intermediate SQL | ![](https://img.shields.io/badge/DataCamp-Intermediate%20SQL-05192D?style=flat-square&logo=datacamp&logoColor=03EF62) |
 
 ---
 
-### 📜 Certifications and Trainings
+### 📊 GitHub Activity
 
-- IT Specialist - HTML and CSS | Pearson
-- IT Specialist - Python | Pearson
-- IT Specialist - Data Analytics | Pearson
-- PMI Project Management Ready | Project Management Institute
-- Data Analytics | DICT x Cisco Networking Academy
-- Introduction to Data Analytics | IBM
-- Introduction to Data Engineering | DataCamp
-- Intermediate SQL | DataCamp
-- IT Specialist - Networking | Pearson
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Precious-Carbonell&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Precious-Carbonell&theme=nord&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=precious-carbonell&theme=nord&hide_border=true" alt="GitHub Streak" />
+</p>

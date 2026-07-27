@@ -1,10 +1,7 @@
 <div align="center">
 
-  <!-- Header GIF -->
-  <img src="https://gifdb.com/images/high/squirtle-happily-smiling-b6lgza0k3xug03qj.gif" alt="Squirtle Header" width="300" />
-
   # Hi! I'm Precious Angeline Carbonell
-  ### 🎓 Information Technology Student & DA/ML Enthusiast
+  ### 🎓 Information Technology Student & DA/MLE Enthusiast
 
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=Precious-Carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" target="_blank">
@@ -110,8 +107,8 @@
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Precious-Carbonell&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Precious-Carbonell&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 
   <br />
 

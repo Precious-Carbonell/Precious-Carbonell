@@ -133,10 +133,3 @@
 | **DataCamp** | Introduction to Data Engineering | ![](https://img.shields.io/badge/DataCamp-Data%20Engineering-05192D?style=flat-square&logo=datacamp&logoColor=03EF62) |
 | **DataCamp** | Intermediate SQL | ![](https://img.shields.io/badge/DataCamp-Intermediate%20SQL-05192D?style=flat-square&logo=datacamp&logoColor=03EF62) |
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=precious-carbonell&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>

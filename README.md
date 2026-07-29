@@ -1,12 +1,7 @@
 <div align="center">
 
-# Hi! I'm Precious Angeline Carbonell
-### IT-BA Student & DA/MLE Enthusiast
+![Banner](assets/banner.png)
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=precious-carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=precious-carbonell&label=Profile%20Views&color=0070f3&style=for-the-badge" alt="Profile Views" />
-  </a>
 </p>
 
 <!-- Social Links -->
@@ -117,7 +112,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 </details>
----
+
+![Banner](assets/divider.png)
+
 
 ### 📜 Certifications & Credentials
 
@@ -129,7 +126,30 @@
 | **Pearson VUE** | IT Specialist - Networking | ![](https://img.shields.io/badge/Pearson-Networking-0072CE?style=flat-square&logo=pearson&logoColor=white) |
 | **PMI** | PMI Project Management Ready | ![](https://img.shields.io/badge/PMI-Project%20Management-00539B?style=flat-square&logo=pmi&logoColor=white) |
 | **DICT x Cisco** | Data Analytics | ![](https://img.shields.io/badge/Cisco-Data%20Analytics-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
-| **IBM** | Introduction to Data Analytics | ![](https://img.shields.io/badge/IBM-Data%20Analytics-054ADA?style=flat-square&logo=ibm&logoColor=white) |
 | **DataCamp** | Introduction to Data Engineering | ![](https://img.shields.io/badge/DataCamp-Data%20Engineering-05192D?style=flat-square&logo=datacamp&logoColor=03EF62) |
 | **DataCamp** | Intermediate SQL | ![](https://img.shields.io/badge/DataCamp-Intermediate%20SQL-05192D?style=flat-square&logo=datacamp&logoColor=03EF62) |
+
+![Divider](assets/divider.png)
+
+### 💼 Experience
+
+| Role | Organization | Duration |
+| :--- | :--- | :--- |
+| ![](https://img.shields.io/badge/Scholar-0070f3?style=flat-square) **She Plus Tech x Coursera Scholar** | She Plus Tech | Jul 2026 - Present |
+| ![](https://img.shields.io/badge/Intern-0070f3?style=flat-square) **Machine Learning Engineering Intern** | FlyRank AI | Jun 2026 - Present |
+| ![](https://img.shields.io/badge/Scholar-0070f3?style=flat-square) **DEP x DataCamp Scholar** | DataCamp | Jun 2026 - Present |
+| ![](https://img.shields.io/badge/Intern-0070f3?style=flat-square) **Technical Project Management Intern** | KMC Solutions | Jan 2026 - Jul 2026 |
+| ![](https://img.shields.io/badge/Intern-0070f3?style=flat-square) **Onsite Support Intern** | KMC Solutions | Dec 2025 - Jan 2026 |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=precious-carbonell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0070f3&text_color=ffffff)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=precious-carbonell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0070f3&icon_color=0070f3&text_color=ffffff)
+
+</div>
 

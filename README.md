@@ -147,9 +147,9 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=precious-carbonell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0070f3&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-Carbonell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0070f3&text_color=ffffff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=precious-carbonell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0070f3&icon_color=0070f3&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Precious-Carbonell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0070f3&icon_color=0070f3&text_color=ffffff)
 
 </div>
 
